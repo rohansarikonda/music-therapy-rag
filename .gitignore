@@ -1,0 +1,13 @@
+# Papers and anything derived from them (copyrighted / unpublished)
+papers/
+paper-text/
+aghaie.txt
+chunks.json
+chroma-db/
+*.xlsx
+
+# Generated
+paper-extraction-results.txt
+__pycache__/
+.venv/
+.DS_Store

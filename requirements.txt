@@ -1,0 +1,5 @@
+chromadb>=1.5.9
+ollama>=0.6.3
+pymupdf>=1.28.2
+openpyxl
+gdown
